@@ -1,6 +1,6 @@
 # Project Title
 
-##Tablas RESTful
+#Tablas RESTful
 
 En una aplicación web basada en la arquitectura REST, los recursos (como datos o entidades) se representan mediante URLs (Uniform Resource Locators) y se pueden manipular utilizando los métodos HTTP estándar, que se utilizan para realizar las operaciones CRUD:
   1. Para crear un recurso en el servidor hay que utilizar un POST.
@@ -28,7 +28,7 @@ Cannot GET /results/
 
 Se abre POSTMAN y se crea una solicitud para cada operacion
 
-##Get
+###Get
 1. Se pone la solicitud como GET
 2. Se pone la ruta y los valores que vamos a sumar de n1 y n2
 
