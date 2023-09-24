@@ -10,9 +10,9 @@ En una aplicación web basada en la arquitectura REST, los recursos (como datos 
 
 ### Prerequisites
 Tener:
--Node.js
--NPM
--Express.js
+* Node.js
+* NPM
+* Express.js
 
 ## Getting Started
 
