@@ -1,5 +1,3 @@
-# Project Title
-
 # Tablas RESTful
 
 En una aplicación web basada en la arquitectura REST, los recursos (como datos o entidades) se representan mediante URLs (Uniform Resource Locators) y se pueden manipular utilizando los métodos HTTP estándar, que se utilizan para realizar las operaciones CRUD:
