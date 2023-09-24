@@ -16,7 +16,7 @@ Tener:
 
 ## Getting Started
 
-Abrimos la cerpeta del trabajo y nos metemos a la terminal, despues escribimos este comando: 
+Abrimos la carpeta del trabajo y nos metemos a la terminal, despues escribimos este comando: 
 
 node index.js
 
