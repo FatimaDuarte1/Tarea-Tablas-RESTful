@@ -24,7 +24,7 @@ El servidor se corre en el puerto 2202 y aparece esto:
 
 Cannot GET /results/
 
-Se abre POSTMAN y se crea una solicitud para cada operacion
+Se abre POSTMAN y se crea una solicitud para cada operación.
 
 ## GET
 
@@ -82,5 +82,3 @@ Fátima Monserrath Duarte Pérez 353324.
 
 
 
-
-![`GET:`](./assets/GET.png)
