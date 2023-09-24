@@ -20,9 +20,6 @@ Abrimos la carpeta del trabajo y abrimos una terminal, despues escribimos este c
 
 node index.js
 
-El servidor se corre en el puerto 2202 y aparece esto:
-
-Cannot GET /results/
 
 Se abre POSTMAN y se crea una solicitud para cada operación.
 
