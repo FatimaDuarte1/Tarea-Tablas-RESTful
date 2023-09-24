@@ -20,7 +20,6 @@ Abrimos la carpeta del trabajo y abrimos una terminal, despues escribimos este c
 
 node index.js
 
-
 Se abre POSTMAN y se crea una solicitud para cada operación.
 
 ## GET
